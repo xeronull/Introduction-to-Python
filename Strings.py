@@ -1,11 +1,11 @@
 #Strings
 
 #This would be the str
-#xero is my name
 #"xero is my name"
-#null is my last name
 #"null is my last name"
-#"XERO NULL"
+#'XERO NULL'
+
+#not a str
 #xeronull
 
 #using the proper syntax that python can interpret printing xero and null on seperate lines
