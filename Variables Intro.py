@@ -16,5 +16,5 @@ potato = "Goodbye World!"
 print(potato)
 
 #Bad idea to override built in names
-print = "Goodbye world!"
-print(print)
+#print = "Goodbye world!"
+#print(print)
